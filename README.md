@@ -48,20 +48,16 @@ My interests include Python development, Generative AI, API development, and cre
 
 ## 🚀 Featured Projects
 
-<details open>
-<summary><b>💰 Hisaab-AI (Currently In Development)</b></summary>
-
+### 💰 Hisaab-AI (Currently In Development)
 Voice-First Financial Assistant that converts multilingual voice notes into structured financial records.
 
 | Stack | Scale | Performance | Security | Impact |
 | :--- | :--- | :--- | :--- | :--- |
 | FastAPI, Supabase, Gemini, WhatsApp API | Medium | High | High | Financial Literacy |
 
-</details>
+---
 
-<details>
-<summary><b>🧠 MindEase</b></summary>
-
+### 🧠 MindEase
 AI Depression Support System built using RAG pipelines and verified psychological resources.
 
 | Stack | Scale | Performance | Security | Impact |
@@ -71,19 +67,6 @@ AI Depression Support System built using RAG pipelines and verified psychologica
 **Links:**
 * [Live Demo](https://mindease-bot.vercel.app/)
 * [Source Code](https://github.com/haha-fyp/Mind-Ease)
-
-</details>
-
-<details>
-<summary><b>📊 Economic Inflation & Exchange Rate Analytics</b></summary>
-
-Data analysis project exploring Pakistan's macroeconomic trends from 2018 to 2021.
-
-| Stack | Scale | Performance | Security | Impact |
-| :--- | :--- | :--- | :--- | :--- |
-| Python, Pandas, Matplotlib, Seaborn | Low | High | N/A | Macro Insights |
-
-</details>
 
 ---
 
