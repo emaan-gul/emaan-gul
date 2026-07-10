@@ -46,7 +46,18 @@ My interests include Python development, Generative AI, API development, and cre
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>💰 Hisaab-AI (Currently In Development)</b></summary>
+
+Voice-First Financial Assistant that converts multilingual voice notes into structured financial records.
+
+| Stack | Scale | Performance | Security | Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| FastAPI, Supabase, Gemini, WhatsApp API | Medium | High | High | Financial Literacy |
+
+</details>
 
 <details>
 <summary><b>🧠 MindEase</b></summary>
@@ -57,18 +68,9 @@ AI Depression Support System built using RAG pipelines and verified psychologica
 | :--- | :--- | :--- | :--- | :--- |
 | React, Python, LangChain, Gemini, Supabase | Medium | High | High (Guardrails) | Crisis Support |
 
-[Live Demo](https://mindease-bot.vercel.app/) | [Source Code](https://github.com/haha-fyp/Mind-Ease)
-
-</details>
-
-<details>
-<summary><b>💰 Hisaab-AI</b></summary>
-
-Voice First Financial Assistant that converts multilingual voice notes into structured financial records.
-
-| Stack | Scale | Performance | Security | Impact |
-| :--- | :--- | :--- | :--- | :--- |
-| FastAPI, Supabase, Gemini, WhatsApp API | Medium | High | High | Financial Literacy |
+**Links:**
+* [Live Demo](https://mindease-bot.vercel.app/)
+* [Source Code](https://github.com/haha-fyp/Mind-Ease)
 
 </details>
 
